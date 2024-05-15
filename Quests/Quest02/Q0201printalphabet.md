@@ -6,7 +6,8 @@ https://youtu.be/56FUVVZIv38?list=PLHyAJ_GrRtf8v66sSpe9fgw-X1n4WJjxB
 Files to submit
 printalphabet/main.go
 
-Using Runes
+Allowed functions
+github.com/01-edu/z01.PrintRune, --allow-builtin
 
 Instructions
 Write a program that prints the Latin alphabet in lowercase on a single line.
